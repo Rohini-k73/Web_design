@@ -3,8 +3,9 @@
 ## Technologies Used
 The tribute page is built using the following technologies:
 
-HTML5
-CSS3
+HTML
+
+CSS
 ## Features
 The tribute page includes the following features:
 
