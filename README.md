@@ -1,5 +1,5 @@
 # Web_design
-##FCC projeccts
+## FCC projeccts
 This README file provides an overview of the project structure and details for the Survey Form, Tribute Page, and Project Landing Page projects created using HTML and CSS.
 
 ## Project Overview
